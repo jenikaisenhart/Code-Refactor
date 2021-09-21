@@ -1,8 +1,7 @@
 # Code Refactor
 
-As a marketing agency
-I want a codebase that follows accessibility standards
-so that our own site is optimized for search engines. I did this by editing the existing code for the page.
+A marketing agency has hired me to fix their website so that they have a
+codebase that follows accessibility standards so that their site is optimized for search engines. I did this by editing the existing code for the page.
 
 Link to Website: https://jenikaisenhart.github.io/Code-Refactor/
 
