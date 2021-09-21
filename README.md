@@ -2,7 +2,7 @@
 
 As a marketing agency
 I want a codebase that follows accessibility standards
-so that our own site is optimized for search engines.
+so that our own site is optimized for search engines. I did this by editing the existing code for the page.
 
 Link to Website: https://jenikaisenhart.github.io/Code-Refactor/
 
@@ -13,7 +13,7 @@ Link to Repository on GitHub: https://github.com/jenikaisenhart/Code-Refactor
 ## Optimizations
 
 Some optimizations I made were some symantic HTML/CSS changes to make it easier to read in the HTML and style sheet. This way search engines would find my page easier by code refactroing.
-This way the web page looks the same and the code seems cleaner. 
+This is how the web page looks the same and the code seems cleaner. 
   
 ## Lessons Learned
 
